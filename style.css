@@ -65,8 +65,8 @@ animation: neptune-rotation 53954ms linear infinite;
 }
 
 .uranus-container > img {
-   height: 100px;
-   width: 100px;
+   height: 160px;
+   width: 160px;
    animation: uranus-rotation 37054ms linear infinite;
 }
 
