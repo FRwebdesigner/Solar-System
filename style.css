@@ -82,8 +82,8 @@ animation: neptune-rotation 53954ms linear infinite;
 }
 
 .saturn-container > img {
-   height: 155px;
-   width: 155px;
+   height: 250px;
+   width: 250px;
    animation: saturn-rotation 33218ms linear infinite;
 }
 
