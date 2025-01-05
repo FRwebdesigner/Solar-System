@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;   
+    border: 5px solid white;   
 }
 
 .pluto-container > img {
@@ -44,7 +44,7 @@ body {
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .neptune-container > img {
@@ -61,7 +61,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .uranus-container > img {
@@ -78,7 +78,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .saturn-container > img {
@@ -95,7 +95,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .jupiter-container > img {
@@ -112,7 +112,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .mars-container > img {
@@ -129,7 +129,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .earth-container > img {
@@ -146,7 +146,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .venus-container > img {
@@ -163,7 +163,7 @@ animation: neptune-rotation 53954ms linear infinite;
    display: flex;
    justify-content: center;
    align-items: center;
-   border: 1px solid white;   
+   border: 5px solid white;   
 }
 
 .mercury-container > img {
@@ -179,8 +179,7 @@ animation: neptune-rotation 53954ms linear infinite;
    border-radius: 100%;
    display: flex;
    justify-content: center;
-   align-items: center;
-   border: 1px solid white;  
+   align-items: center; 
 }
 
 .sun-container > img {
